@@ -51,7 +51,7 @@ Credit Default - факт невыполнения кредитных обяза
 Клонируем репозиторий и создаем образ 
 $ git clone https://github.com/OraculNew/Machine-Learning-in-Business.git
 $ cd MLB_docker_flask 
-$ docker build -t sil/gb_mlb_docker_flask . 
+$ docker build -t ./gb_mlb_docker_flask . 
 
 
 Запускаем контейнер
