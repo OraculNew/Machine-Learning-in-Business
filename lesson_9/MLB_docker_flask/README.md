@@ -49,7 +49,7 @@ Credit Default - факт невыполнения кредитных обяза
   - HW.ipynb
 
 Клонируем репозиторий и создаем образ 
-$ git clone https://github.com/OraculNew/MLB_docker_flask.git 
+$ git clone https://github.com/OraculNew/Machine-Learning-in-Business.git
 $ cd MLB_docker_flask 
 $ docker build -t sil/gb_mlb_docker_flask . 
 
